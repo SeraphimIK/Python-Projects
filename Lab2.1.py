@@ -1,4 +1,3 @@
-
 # Seraphim Ikuomola
 # 
 # Part 1: Fibonacci Sequence
