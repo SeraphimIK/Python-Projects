@@ -1,4 +1,3 @@
-# CISC 131 02
 # Seraphim Ikuomola
 # Lab 2 - Part 2.2
 
