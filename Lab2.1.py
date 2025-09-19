@@ -1,5 +1,4 @@
 
-# CISC 131 02 
 # Seraphim Ikuomola
 # 
 # Part 1: Fibonacci Sequence
